@@ -7,7 +7,7 @@
 
   "phone": "+919876543210",
   "whatsapp": "+919876543210",
-  "whatsappMessage": "Hello Hotel Shivneri! I saw your menu and would like to know more.",
+  "whatsappMessage": "Hello Hotel Sagar! I saw your menu and would like to know more.",
   "email": "",
 
   "address": "Shivneri Complex, College Road, Belagavi, Karnataka 590001",
@@ -35,7 +35,7 @@
     { "day": "Sunday",    "open": "08:00", "close": "23:00" }
   ],
 
-  "siteUrl": "https://sagarpatil199.github.io/hotel-shivneri-menu/",
+  "siteUrl": "https://sagarpatil199.github.io/Hotel-Sagar/",
 
   "theme": {
     "primary": "#0F766E",
