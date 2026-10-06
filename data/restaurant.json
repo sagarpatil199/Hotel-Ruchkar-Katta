@@ -5,8 +5,8 @@
   "logo": "assets/logo/Hotel Ruchkar Katta Family Dining Badge.png",
   "coverImage": "",
 
-  "phone": "",
-  "whatsapp": "",
+  "phone": "9535758777",
+  "whatsapp": "9535758777",
   "whatsappMessage": "Hello Hotel Ruchkar Katta! I saw your digital menu and would like to know more.",
   "email": "",
 
@@ -34,16 +34,58 @@
   "timezone": "Asia/Kolkata",
 
   "openingHours": [
-    { "day": "Monday", "open": "", "close": "" },
-    { "day": "Tuesday", "open": "", "close": "" },
-    { "day": "Wednesday", "open": "", "close": "" },
-    { "day": "Thursday", "open": "", "close": "" },
-    { "day": "Friday", "open": "", "close": "" },
-    { "day": "Saturday", "open": "", "close": "" },
-    { "day": "Sunday", "open": "", "close": "" }
-  ],
+  {
+    "day": "Monday",
+    "hours": [
+      { "open": "12:30", "close": "15:30" },
+      { "open": "19:00", "close": "23:00" }
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "hours": [
+      { "open": "12:30", "close": "15:30" },
+      { "open": "19:00", "close": "23:00" }
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "hours": [
+      { "open": "12:30", "close": "15:30" },
+      { "open": "19:00", "close": "23:00" }
+    ]
+  },
+  {
+    "day": "Thursday",
+    "hours": [
+      { "open": "12:30", "close": "15:30" },
+      { "open": "19:00", "close": "23:00" }
+    ]
+  },
+  {
+    "day": "Friday",
+    "hours": [
+      { "open": "12:30", "close": "15:30" },
+      { "open": "19:00", "close": "23:00" }
+    ]
+  },
+  {
+    "day": "Saturday",
+    "hours": [
+      { "open": "12:30", "close": "15:30" },
+      { "open": "19:00", "close": "23:00" }
+    ]
+  },
+  {
+    "day": "Sunday",
+    "hours": [
+      { "open": "12:30", "close": "15:30" },
+      { "open": "19:00", "close": "23:00" }
+    ]
+  }
+],
 
-  "siteUrl": "",
+  "siteUrl": "https://sagarpatil199.github.io/Hotel-Ruchkar-Katta",
 
   "theme": {
     "primary": "#7A1F1F",
