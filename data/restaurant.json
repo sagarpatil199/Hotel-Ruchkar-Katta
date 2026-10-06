@@ -34,55 +34,26 @@
   "timezone": "Asia/Kolkata",
 
   "openingHours": [
-  {
-    "day": "Monday",
-    "hours": [
-      { "open": "12:30", "close": "15:30" },
-      { "open": "19:00", "close": "23:00" }
-    ]
-  },
-  {
-    "day": "Tuesday",
-    "hours": [
-      { "open": "12:30", "close": "15:30" },
-      { "open": "19:00", "close": "23:00" }
-    ]
-  },
-  {
-    "day": "Wednesday",
-    "hours": [
-      { "open": "12:30", "close": "15:30" },
-      { "open": "19:00", "close": "23:00" }
-    ]
-  },
-  {
-    "day": "Thursday",
-    "hours": [
-      { "open": "12:30", "close": "15:30" },
-      { "open": "19:00", "close": "23:00" }
-    ]
-  },
-  {
-    "day": "Friday",
-    "hours": [
-      { "open": "12:30", "close": "15:30" },
-      { "open": "19:00", "close": "23:00" }
-    ]
-  },
-  {
-    "day": "Saturday",
-    "hours": [
-      { "open": "12:30", "close": "15:30" },
-      { "open": "19:00", "close": "23:00" }
-    ]
-  },
-  {
-    "day": "Sunday",
-    "hours": [
-      { "open": "12:30", "close": "15:30" },
-      { "open": "19:00", "close": "23:00" }
-    ]
-  }
+  { "day": "Monday", "open": "12:30", "close": "15:30" },
+  { "day": "Monday", "open": "19:00", "close": "23:00" },
+
+  { "day": "Tuesday", "open": "12:30", "close": "15:30" },
+  { "day": "Tuesday", "open": "19:00", "close": "23:00" },
+
+  { "day": "Wednesday", "open": "12:30", "close": "15:30" },
+  { "day": "Wednesday", "open": "19:00", "close": "23:00" },
+
+  { "day": "Thursday", "open": "12:30", "close": "15:30" },
+  { "day": "Thursday", "open": "19:00", "close": "23:00" },
+
+  { "day": "Friday", "open": "12:30", "close": "15:30" },
+  { "day": "Friday", "open": "19:00", "close": "23:00" },
+
+  { "day": "Saturday", "open": "12:30", "close": "15:30" },
+  { "day": "Saturday", "open": "19:00", "close": "23:00" },
+
+  { "day": "Sunday", "open": "12:30", "close": "15:30" },
+  { "day": "Sunday", "open": "19:00", "close": "23:00" }
 ],
 
   "siteUrl": "https://sagarpatil199.github.io/Hotel-Ruchkar-Katta",
