@@ -375,9 +375,27 @@
       ]);
       section.appendChild(head);
       if (cat.description) section.appendChild(el("p", { class: "category__desc", text: cat.description }));
-      var grid = el("div", { class: "grid" });
-      cat.items.forEach(function (item) { grid.appendChild(card(item, currency)); });
-      section.appendChild(grid);
+      // Group consecutive dishes by sub title (e.g. "Veg Starters"), keeping the menu order.
+      var groups = [];
+      cat.items.forEach(function (item) {
+        var last = groups[groups.length - 1];
+        if (!last || last.name !== item.subcategory) { last = { name: item.subcategory, items: [] }; groups.push(last); }
+        last.items.push(item);
+      });
+      groups.forEach(function (group, gi) {
+        var grid = el("div", { class: "grid" });
+        group.items.forEach(function (item) { grid.appendChild(card(item, currency)); });
+        if (!group.name) { section.appendChild(grid); return; }
+        var subId = headingId.replace(/-title$/, "") + "-sub-" + gi;
+        var sub = el("div", { class: "subcat", "data-subcat": "", role: "group", "aria-labelledby": subId }, [
+          el("h3", { class: "subcat__title", id: subId }, [
+            el("span", { text: group.name }),
+            el("span", { class: "subcat__count", "data-subcount": "", text: String(group.items.length) })
+          ]),
+          grid
+        ]);
+        section.appendChild(sub);
+      });
       frag.appendChild(section);
     });
     root.textContent = "";
@@ -406,6 +424,12 @@
         var node = section.querySelector('.card[data-id="' + item.id + '"]');
         node.hidden = !show;
         if (show) visible++;
+      });
+      Array.prototype.forEach.call(section.querySelectorAll("[data-subcat]"), function (sub) {
+        var shown = sub.querySelectorAll(".card:not([hidden])").length;
+        sub.hidden = shown === 0;
+        var badge = sub.querySelector("[data-subcount]");
+        if (badge) badge.textContent = String(shown);
       });
       section.hidden = visible === 0;
       if (navItem) navItem.hidden = visible === 0;
