@@ -17,8 +17,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 1,
-          "subtitle": "Veg Starters"
+          "subcategory": "Veg Starters",
+          "displayOrder": 1
         },
         {
           "id": "french-fries",
@@ -31,8 +31,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 2,
-          "subtitle": "Veg Starters"
+          "subcategory": "Veg Starters",
+          "displayOrder": 2
         },
         {
           "id": "peri-peri-french-fries",
@@ -45,8 +45,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 3,
-          "subtitle": "Veg Starters"
+          "subcategory": "Veg Starters",
+          "displayOrder": 3
         },
         {
           "id": "gobi-manchurian",
@@ -59,8 +59,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 4,
-          "subtitle": "Veg Starters"
+          "subcategory": "Veg Starters",
+          "displayOrder": 4
         },
         {
           "id": "veg-manchurian",
@@ -73,8 +73,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 5,
-          "subtitle": "Veg Starters"
+          "subcategory": "Veg Starters",
+          "displayOrder": 5
         },
         {
           "id": "corn-pepper",
@@ -87,8 +87,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 6,
-          "subtitle": "Veg Starters"
+          "subcategory": "Veg Starters",
+          "displayOrder": 6
         },
         {
           "id": "bhendi-fry",
@@ -101,8 +101,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 7,
-          "subtitle": "Veg Starters"
+          "subcategory": "Veg Starters",
+          "displayOrder": 7
         },
         {
           "id": "paneer-65",
@@ -115,8 +115,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 8,
-          "subtitle": "Paneer Starters"
+          "subcategory": "Paneer Starters",
+          "displayOrder": 8
         },
         {
           "id": "paneer-pakoda",
@@ -129,8 +129,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 9,
-          "subtitle": "Paneer Starters"
+          "subcategory": "Paneer Starters",
+          "displayOrder": 9
         },
         {
           "id": "paneer-chilly",
@@ -143,8 +143,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 10,
-          "subtitle": "Paneer Starters"
+          "subcategory": "Paneer Starters",
+          "displayOrder": 10
         },
         {
           "id": "paneer-manchurian",
@@ -157,8 +157,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 11,
-          "subtitle": "Paneer Starters"
+          "subcategory": "Paneer Starters",
+          "displayOrder": 11
         },
         {
           "id": "paneer-tikka",
@@ -171,8 +171,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 12,
-          "subtitle": "Paneer Starters"
+          "subcategory": "Paneer Starters",
+          "displayOrder": 12
         },
         {
           "id": "paneer-hariyali-tikka",
@@ -185,8 +185,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 13,
-          "subtitle": "Paneer Starters"
+          "subcategory": "Paneer Starters",
+          "displayOrder": 13
         },
         {
           "id": "mushroom-65",
@@ -199,8 +199,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 14,
-          "subtitle": "Mushroom Starters"
+          "subcategory": "Mushroom Starters",
+          "displayOrder": 14
         },
         {
           "id": "mushroom-chilly",
@@ -213,8 +213,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 15,
-          "subtitle": "Mushroom Starters"
+          "subcategory": "Mushroom Starters",
+          "displayOrder": 15
         },
         {
           "id": "mushroom-manchurian",
@@ -227,317 +227,9 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 16,
-          "subtitle": "Mushroom Starters"
+          "subcategory": "Mushroom Starters",
+          "displayOrder": 16
         },
-        {
-          "id": "chicken-lollipop",
-          "name": "Chicken Lollipop",
-          "description": "6 Pcs",
-          "price": 180,
-          "image": "assets/menu/chicken-lollipop.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 17,
-          "variations": [
-            {
-              "name": "Dry",
-              "price": 180
-            },
-            {
-              "name": "Masala",
-              "price": 200
-            }
-          ],
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "chicken-65",
-          "name": "Chicken 65",
-          "description": "",
-          "price": 160,
-          "image": "assets/menu/chicken-65.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 3,
-          "displayOrder": 18,
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "chicken-sukka",
-          "name": "Chicken Sukka",
-          "description": "",
-          "price": 150,
-          "image": "assets/menu/chicken-sukka.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 3,
-          "displayOrder": 19,
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "chicken-chilly",
-          "name": "Chicken Chilly",
-          "description": "",
-          "price": 200,
-          "image": "assets/menu/chicken-chilly.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 20,
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "chicken-crispy",
-          "name": "Chicken Crispy",
-          "description": "",
-          "price": 220,
-          "image": "assets/menu/chicken-crispy.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 21,
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "chicken-pakoda",
-          "name": "Chicken Pakoda",
-          "description": "",
-          "price": 180,
-          "image": "assets/menu/chicken-pakoda.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 22,
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "jawari-chicken-sukka",
-          "name": "Jawari Chicken Sukka",
-          "description": "",
-          "price": 170,
-          "image": "assets/menu/jawari-chicken-sukka.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 3,
-          "displayOrder": 23,
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "chicken-ghee-roast",
-          "name": "Chicken Ghee Roast",
-          "description": "",
-          "price": 180,
-          "image": "assets/menu/chicken-ghee-roast.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 3,
-          "displayOrder": 24,
-          "subtitle": "Chicken Starters"
-        },
-        {
-          "id": "chicken-tikka-kebab",
-          "name": "Chicken Tikka Kebab",
-          "description": "",
-          "price": 250,
-          "image": "assets/menu/chicken-tikka-kebab.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 25,
-          "subtitle": "Tandoor Chicken Starters"
-        },
-        {
-          "id": "chicken-banjara-kebab",
-          "name": "Chicken Banjara Kebab",
-          "description": "",
-          "price": 260,
-          "image": "assets/menu/chicken-banjara-kebab.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 26,
-          "subtitle": "Tandoor Chicken Starters"
-        },
-        {
-          "id": "chicken-tandoori",
-          "name": "Chicken Tandoori",
-          "description": "",
-          "price": 280,
-          "image": "assets/menu/chicken-tandoori.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 27,
-          "variations": [
-            {
-              "name": "Half",
-              "price": 280
-            },
-            {
-              "name": "Full",
-              "price": 500
-            }
-          ],
-          "subtitle": "Tandoor Chicken Starters"
-        },
-        {
-          "id": "mutton-ghee-roast",
-          "name": "Mutton Ghee Roast",
-          "description": "",
-          "price": 250,
-          "image": "assets/menu/mutton-ghee-roast.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 3,
-          "displayOrder": 28,
-          "subtitle": "Mutton Starters"
-        },
-        {
-          "id": "mutton-fry-starter",
-          "name": "Mutton Fry / Sukka",
-          "description": "",
-          "price": 210,
-          "image": "assets/menu/mutton-fry-plate.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 29,
-          "subtitle": "Mutton Starters"
-        },
-        {
-          "id": "mutton-dry-black-pepper",
-          "name": "Mutton Black Pepper",
-          "description": "",
-          "price": 210,
-          "image": "assets/menu/mutton-dry-black-pepper.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 3,
-          "displayOrder": 30,
-          "subtitle": "Mutton Starters"
-        },
-        {
-          "id": "mutton-chops-starter",
-          "name": "Mutton Chops Fry",
-          "description": "",
-          "price": 220,
-          "image": "assets/menu/mutton-chops-plate.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 31,
-          "subtitle": "Mutton Starters"
-        },
-        {
-          "id": "mutton-kheema-ball-plate",
-          "name": "Mutton Keema Ball Fry",
-          "description": "",
-          "price": 220,
-          "image": "assets/menu/mutton-kheema-ball-plate.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 32,
-          "subtitle": "Mutton Starters"
-        },
-        {
-          "id": "surmai-fry-masala",
-          "name": "Surmai Fry Rawa / Tawa",
-          "description": "As per size",
-          "price": null,
-          "image": "assets/menu/surmai-fry.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 33,
-          "subtitle": "Fish Starters"
-        },
-        {
-          "id": "prawns-fry-masala",
-          "name": "Prawns Fry Rawa / Tawa",
-          "description": "As per size",
-          "price": null,
-          "image": "assets/menu/prawns-fry.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 34,
-          "subtitle": "Fish Starters"
-        },
-        {
-          "id": "bangada-fry-masala",
-          "name": "Bangada Fry Rawa",
-          "description": "As per size",
-          "price": null,
-          "image": "assets/menu/bangada-fry.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 35,
-          "subtitle": "Fish Starters"
-        },
-        {
-          "id": "prawns-chilly",
-          "name": "Prawns Chilly",
-          "description": "As per size",
-          "price": null,
-          "image": "assets/menu/prawns-chilly.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 36,
-          "subtitle": "Fish Starters"
-        }
-      ]
-    },
-    {
-      "id": "soups",
-      "name": "Soups",
-      "description": "Hot and comforting soups",
-      "displayOrder": 2,
-      "items": [
         {
           "id": "veg-manchow-soup",
           "name": "Veg Manchow Soup",
@@ -549,8 +241,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 1,
-          "subtitle": "Veg Soup"
+          "subcategory": "Veg Soup",
+          "displayOrder": 17
         },
         {
           "id": "cream-of-tomato-soup",
@@ -563,8 +255,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 2,
-          "subtitle": "Veg Soup"
+          "subcategory": "Veg Soup",
+          "displayOrder": 18
         },
         {
           "id": "cream-mushroom-soup",
@@ -577,8 +269,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 3,
-          "subtitle": "Veg Soup"
+          "subcategory": "Veg Soup",
+          "displayOrder": 19
         },
         {
           "id": "chicken-manchow-soup",
@@ -591,8 +283,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 4,
-          "subtitle": "Non-Veg Soup"
+          "subcategory": "Non-Veg Soup",
+          "displayOrder": 20
         },
         {
           "id": "chicken-lemon-coriander-soup",
@@ -605,16 +297,316 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 5,
-          "subtitle": "Non-Veg Soup"
+          "subcategory": "Non-Veg Soup",
+          "displayOrder": 21
+        },
+        {
+          "id": "chicken-lollipop",
+          "name": "Chicken Lollipop",
+          "description": "6 Pcs",
+          "price": 180,
+          "image": "assets/menu/chicken-lollipop.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 22,
+          "variations": [
+            {
+              "name": "Dry",
+              "price": 180
+            },
+            {
+              "name": "Masala",
+              "price": 200
+            }
+          ]
+        },
+        {
+          "id": "chicken-65",
+          "name": "Chicken 65",
+          "description": "",
+          "price": 160,
+          "image": "assets/menu/chicken-65.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 3,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 23
+        },
+        {
+          "id": "chicken-sukka",
+          "name": "Chicken Sukka",
+          "description": "",
+          "price": 150,
+          "image": "assets/menu/chicken-sukka.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 3,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 24
+        },
+        {
+          "id": "chicken-chilly",
+          "name": "Chicken Chilly",
+          "description": "",
+          "price": 200,
+          "image": "assets/menu/chicken-chilly.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 25
+        },
+        {
+          "id": "chicken-crispy",
+          "name": "Chicken Crispy",
+          "description": "",
+          "price": 220,
+          "image": "assets/menu/chicken-crispy.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 26
+        },
+        {
+          "id": "chicken-pakoda",
+          "name": "Chicken Pakoda",
+          "description": "",
+          "price": 180,
+          "image": "assets/menu/chicken-pakoda.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 27
+        },
+        {
+          "id": "jawari-chicken-sukka",
+          "name": "Jawari Chicken Sukka",
+          "description": "",
+          "price": 170,
+          "image": "assets/menu/jawari-chicken-sukka.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 3,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 28
+        },
+        {
+          "id": "chicken-ghee-roast",
+          "name": "Chicken Ghee Roast",
+          "description": "",
+          "price": 180,
+          "image": "assets/menu/chicken-ghee-roast.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 3,
+          "subcategory": "Chicken Starters",
+          "displayOrder": 29
+        },
+        {
+          "id": "surmai-fry-masala",
+          "name": "Surmai Fry Rawa / Tawa",
+          "description": "As per size",
+          "price": null,
+          "image": "assets/menu/surmai-fry.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Fish Starters",
+          "displayOrder": 30
+        },
+        {
+          "id": "prawns-fry-masala",
+          "name": "Prawns Fry Rawa / Tawa",
+          "description": "As per size",
+          "price": null,
+          "image": "assets/menu/prawns-fry.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Fish Starters",
+          "displayOrder": 31
+        },
+        {
+          "id": "bangada-fry-masala",
+          "name": "Bangada Fry Rawa",
+          "description": "As per size",
+          "price": null,
+          "image": "assets/menu/bangada-fry.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Fish Starters",
+          "displayOrder": 32
+        },
+        {
+          "id": "prawns-chilly",
+          "name": "Prawns Chilly",
+          "description": "As per size",
+          "price": null,
+          "image": "assets/menu/prawns-chilly.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Fish Starters",
+          "displayOrder": 33
+        },
+        {
+          "id": "chicken-tikka-kebab",
+          "name": "Chicken Tikka Kebab",
+          "description": "",
+          "price": 250,
+          "image": "assets/menu/chicken-tikka-kebab.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Tandoor Chicken Starters",
+          "displayOrder": 34
+        },
+        {
+          "id": "chicken-banjara-kebab",
+          "name": "Chicken Banjara Kebab",
+          "description": "",
+          "price": 260,
+          "image": "assets/menu/chicken-banjara-kebab.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Tandoor Chicken Starters",
+          "displayOrder": 35
+        },
+        {
+          "id": "chicken-tandoori",
+          "name": "Chicken Tandoori",
+          "description": "",
+          "price": 280,
+          "image": "assets/menu/chicken-tandoori.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Tandoor Chicken Starters",
+          "displayOrder": 36,
+          "variations": [
+            {
+              "name": "Half",
+              "price": 280
+            },
+            {
+              "name": "Full",
+              "price": 500
+            }
+          ]
+        },
+        {
+          "id": "mutton-ghee-roast",
+          "name": "Mutton Ghee Roast",
+          "description": "",
+          "price": 250,
+          "image": "assets/menu/mutton-ghee-roast.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 3,
+          "subcategory": "Mutton Starters",
+          "displayOrder": 37
+        },
+        {
+          "id": "mutton-fry-starter",
+          "name": "Mutton Fry / Sukka",
+          "description": "",
+          "price": 210,
+          "image": "assets/menu/mutton-fry-plate.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Mutton Starters",
+          "displayOrder": 38
+        },
+        {
+          "id": "mutton-dry-black-pepper",
+          "name": "Mutton Black Pepper",
+          "description": "",
+          "price": 210,
+          "image": "assets/menu/mutton-dry-black-pepper.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 3,
+          "subcategory": "Mutton Starters",
+          "displayOrder": 39
+        },
+        {
+          "id": "mutton-chops-starter",
+          "name": "Mutton Chops Fry",
+          "description": "",
+          "price": 220,
+          "image": "assets/menu/mutton-chops-plate.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Mutton Starters",
+          "displayOrder": 40
+        },
+        {
+          "id": "mutton-kheema-ball-plate",
+          "name": "Mutton Keema Ball Fry",
+          "description": "",
+          "price": 220,
+          "image": "assets/menu/mutton-kheema-ball-plate.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Mutton Starters",
+          "displayOrder": 41
         }
       ]
     },
     {
-      "id": "mutton-thali",
-      "name": "Mutton Thali",
-      "description": "Traditional mutton thalis",
-      "displayOrder": 3,
+      "id": "thalis",
+      "name": "Thali's",
+      "description": "Traditional thalis",
+      "displayOrder": 2,
       "items": [
         {
           "id": "mutton-masala-thali",
@@ -627,8 +619,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 1,
-          "subtitle": "Mutton Thali"
+          "subcategory": "Mutton Thali",
+          "displayOrder": 1
         },
         {
           "id": "mutton-fry-thali",
@@ -641,8 +633,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 2,
-          "subtitle": "Mutton Thali"
+          "subcategory": "Mutton Thali",
+          "displayOrder": 2
         },
         {
           "id": "mutton-kolhapuri-thali",
@@ -655,8 +647,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 3,
-          "subtitle": "Mutton Thali"
+          "subcategory": "Mutton Thali",
+          "displayOrder": 3
         },
         {
           "id": "mutton-kheema-ball-thali",
@@ -669,8 +661,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 4,
-          "subtitle": "Mutton Thali"
+          "subcategory": "Mutton Thali",
+          "displayOrder": 4
         },
         {
           "id": "mutton-chops-thali",
@@ -683,53 +675,9 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 5,
-          "subtitle": "Mutton Thali"
-        }
-      ]
-    },
-    {
-      "id": "special-mutton-thali",
-      "name": "Special Mutton Thali",
-      "description": "Special Ruchkar Katta mutton thalis",
-      "displayOrder": 4,
-      "items": [
-        {
-          "id": "special-ruchkar-mutton-thali",
-          "name": "Ruchkar Special Mutton Thali",
-          "description": "",
-          "price": 350,
-          "image": "assets/menu/Special Ruchkar Katta mutton thalis.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": true,
-          "spiceLevel": 2,
-          "displayOrder": 1,
-          "subtitle": "Special Mutton Thali"
+          "subcategory": "Mutton Thali",
+          "displayOrder": 5
         },
-        {
-          "id": "special-gavran-mutton-thali",
-          "name": "Mutton Gavaran Special Thali",
-          "description": "",
-          "price": 350,
-          "image": "assets/menu/special-gavran-mutton-thali.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": true,
-          "spiceLevel": 3,
-          "displayOrder": 2,
-          "subtitle": "Special Mutton Thali"
-        }
-      ]
-    },
-    {
-      "id": "chicken-thali",
-      "name": "Chicken Thali",
-      "description": "Traditional chicken thalis",
-      "displayOrder": 5,
-      "items": [
         {
           "id": "chicken-fry-thali",
           "name": "Chicken Fry Thali",
@@ -741,8 +689,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 1,
-          "subtitle": "Chicken Thali"
+          "subcategory": "Chicken Thali",
+          "displayOrder": 6
         },
         {
           "id": "chicken-masala-thali",
@@ -755,8 +703,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 2,
-          "subtitle": "Chicken Thali"
+          "subcategory": "Chicken Thali",
+          "displayOrder": 7
         },
         {
           "id": "chicken-kheema-thali",
@@ -769,8 +717,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 3,
-          "subtitle": "Chicken Thali"
+          "subcategory": "Chicken Thali",
+          "displayOrder": 8
         },
         {
           "id": "chicken-kolhapuri-thali",
@@ -783,45 +731,9 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 4,
-          "subtitle": "Chicken Thali"
+          "subcategory": "Chicken Thali",
+          "displayOrder": 9
         },
-        {
-          "id": "special-ruchkar-chicken-thali",
-          "name": "Ruchkar Special Chicken Thali",
-          "description": "",
-          "price": 240,
-          "image": "assets/menu/special-ruchkar-chicken-thali.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": true,
-          "spiceLevel": 2,
-          "displayOrder": 5,
-          "subtitle": "Special Chicken Thali"
-        },
-        {
-          "id": "jawari-chicken-thali",
-          "name": "Jawari Chicken Thali",
-          "description": "",
-          "price": 250,
-          "image": "assets/menu/jawari-chicken-thali.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "displayOrder": 6,
-          "subtitle": "Special Chicken Thali"
-        }
-      ]
-    },
-    {
-      "id": "egg-thali",
-      "name": "Egg Thali",
-      "description": "Egg specialities and thalis",
-      "displayOrder": 6,
-      "items": [
         {
           "id": "egg-masala-thali",
           "name": "Egg Masala Thali",
@@ -833,8 +745,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 1,
-          "subtitle": "Egg Thali"
+          "subcategory": "Egg Thali",
+          "displayOrder": 10
         },
         {
           "id": "egg-fry-thali",
@@ -847,8 +759,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 2,
-          "subtitle": "Egg Thali"
+          "subcategory": "Egg Thali",
+          "displayOrder": 11
         },
         {
           "id": "egg-kolhapuri-thali",
@@ -861,8 +773,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 3,
-          "subtitle": "Egg Thali"
+          "subcategory": "Egg Thali",
+          "displayOrder": 12
         },
         {
           "id": "egg-khandavi-thali",
@@ -875,31 +787,9 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 4,
-          "subtitle": "Egg Thali"
+          "subcategory": "Egg Thali",
+          "displayOrder": 13
         },
-        {
-          "id": "special-ruchkar-egg-thali",
-          "name": "Ruchkar Special Egg Thali",
-          "description": "",
-          "price": 180,
-          "image": "assets/menu/special-ruchkar-egg-thali.jpg",
-          "isVeg": false,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": true,
-          "spiceLevel": 2,
-          "displayOrder": 5,
-          "subtitle": "Special Egg Thali"
-        }
-      ]
-    },
-    {
-      "id": "fish-thali",
-      "name": "Fish Thali",
-      "description": "Fresh fish thalis",
-      "displayOrder": 7,
-      "items": [
         {
           "id": "surmai-thali",
           "name": "Surmai Thali",
@@ -911,8 +801,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 1,
-          "subtitle": "Fish Thali"
+          "subcategory": "Fish Thali",
+          "displayOrder": 14
         },
         {
           "id": "bangada-thali",
@@ -925,17 +815,9 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 2,
-          "subtitle": "Fish Thali"
-        }
-      ]
-    },
-    {
-      "id": "veg-thali",
-      "name": "Veg Thali",
-      "description": "Vegetarian thali favourites",
-      "displayOrder": 8,
-      "items": [
+          "subcategory": "Fish Thali",
+          "displayOrder": 15
+        },
         {
           "id": "mix-veg-thali",
           "name": "Mix Veg Thali",
@@ -947,8 +829,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 1,
-          "subtitle": "Veg Thali"
+          "subcategory": "Veg Thali",
+          "displayOrder": 16
         },
         {
           "id": "special-ruchkar-veg-thali",
@@ -961,8 +843,78 @@
           "isBestseller": true,
           "isNew": true,
           "spiceLevel": 1,
-          "displayOrder": 2,
-          "subtitle": "Veg Thali"
+          "subcategory": "Veg Thali",
+          "displayOrder": 17
+        },
+        {
+          "id": "special-ruchkar-mutton-thali",
+          "name": "Ruchkar Special Mutton Thali",
+          "description": "",
+          "price": 350,
+          "image": "assets/menu/Special Ruchkar Katta mutton thalis.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": true,
+          "spiceLevel": 2,
+          "subcategory": "Special Mutton Thali",
+          "displayOrder": 18
+        },
+        {
+          "id": "special-gavran-mutton-thali",
+          "name": "Mutton Gavaran Special Thali",
+          "description": "",
+          "price": 350,
+          "image": "assets/menu/special-gavran-mutton-thali.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": true,
+          "spiceLevel": 3,
+          "subcategory": "Special Mutton Thali",
+          "displayOrder": 19
+        },
+        {
+          "id": "special-ruchkar-chicken-thali",
+          "name": "Ruchkar Special Chicken Thali",
+          "description": "",
+          "price": 240,
+          "image": "assets/menu/special-ruchkar-chicken-thali.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": true,
+          "spiceLevel": 2,
+          "subcategory": "Special Chicken Thali",
+          "displayOrder": 20
+        },
+        {
+          "id": "jawari-chicken-thali",
+          "name": "Jawari Chicken Thali",
+          "description": "",
+          "price": 250,
+          "image": "assets/menu/jawari-chicken-thali.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Special Chicken Thali",
+          "displayOrder": 21
+        },
+        {
+          "id": "special-ruchkar-egg-thali",
+          "name": "Ruchkar Special Egg Thali",
+          "description": "",
+          "price": 180,
+          "image": "assets/menu/special-ruchkar-egg-thali.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": true,
+          "spiceLevel": 2,
+          "subcategory": "Special Egg Thali",
+          "displayOrder": 22
         }
       ]
     },
@@ -970,7 +922,7 @@
       "id": "veg-main-course",
       "name": "Veg Main Course",
       "description": "Vegetarian curries and main dishes",
-      "displayOrder": 9,
+      "displayOrder": 3,
       "items": [
         {
           "id": "ruchkar-special-veg",
@@ -983,8 +935,8 @@
           "isBestseller": true,
           "isNew": true,
           "spiceLevel": 2,
-          "displayOrder": 1,
-          "subtitle": "Special"
+          "subcategory": "Special",
+          "displayOrder": 1
         },
         {
           "id": "paneer-tikka-masala",
@@ -997,8 +949,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 2,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 2
         },
         {
           "id": "paneer-chingari",
@@ -1011,8 +963,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 3,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 3
         },
         {
           "id": "paneer-masala",
@@ -1025,8 +977,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 4,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 4
         },
         {
           "id": "paneer-kadai",
@@ -1039,8 +991,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 5,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 5
         },
         {
           "id": "paneer-butter-masala",
@@ -1053,8 +1005,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 6,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 6
         },
         {
           "id": "paneer-handi",
@@ -1067,8 +1019,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 7,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 7
         },
         {
           "id": "paneer-green-peas-masala",
@@ -1081,8 +1033,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 8,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 8
         },
         {
           "id": "paneer-burji",
@@ -1095,8 +1047,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 9,
-          "subtitle": "Paneer"
+          "subcategory": "Paneer",
+          "displayOrder": 9
         },
         {
           "id": "dal-fry",
@@ -1109,8 +1061,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 10,
-          "subtitle": "Taste of Dal"
+          "subcategory": "Taste of Dal",
+          "displayOrder": 10
         },
         {
           "id": "dal-tadka",
@@ -1123,8 +1075,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 11,
-          "subtitle": "Taste of Dal"
+          "subcategory": "Taste of Dal",
+          "displayOrder": 11
         },
         {
           "id": "butter-dal-fry",
@@ -1137,8 +1089,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 12,
-          "subtitle": "Taste of Dal"
+          "subcategory": "Taste of Dal",
+          "displayOrder": 12
         },
         {
           "id": "kaju-masala",
@@ -1151,8 +1103,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 13,
-          "subtitle": "Kaju"
+          "subcategory": "Kaju",
+          "displayOrder": 13
         },
         {
           "id": "kaju-kolhapuri",
@@ -1165,8 +1117,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 14,
-          "subtitle": "Kaju"
+          "subcategory": "Kaju",
+          "displayOrder": 14
         },
         {
           "id": "kaju-kari",
@@ -1179,8 +1131,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 15,
-          "subtitle": "Kaju"
+          "subcategory": "Kaju",
+          "displayOrder": 15
         },
         {
           "id": "kaju-paneer-masala",
@@ -1193,8 +1145,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 16,
-          "subtitle": "Kaju"
+          "subcategory": "Kaju",
+          "displayOrder": 16
         },
         {
           "id": "kaju-handi",
@@ -1207,8 +1159,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 17,
-          "subtitle": "Kaju"
+          "subcategory": "Kaju",
+          "displayOrder": 17
         },
         {
           "id": "mix-veg-kolhapuri",
@@ -1221,8 +1173,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 18,
-          "subtitle": "Veg"
+          "subcategory": "Veg",
+          "displayOrder": 18
         },
         {
           "id": "veg-kadai",
@@ -1235,8 +1187,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 19,
-          "subtitle": "Veg"
+          "subcategory": "Veg",
+          "displayOrder": 19
         },
         {
           "id": "veg-handi",
@@ -1249,8 +1201,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 20,
-          "subtitle": "Veg"
+          "subcategory": "Veg",
+          "displayOrder": 20
         },
         {
           "id": "veg-jaipuri",
@@ -1263,8 +1215,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 21,
-          "subtitle": "Veg"
+          "subcategory": "Veg",
+          "displayOrder": 21
         },
         {
           "id": "mushroom-masala",
@@ -1277,8 +1229,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 22,
-          "subtitle": "Veg"
+          "subcategory": "Veg",
+          "displayOrder": 22
         },
         {
           "id": "veg-bhuna-masala",
@@ -1291,8 +1243,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 23,
-          "subtitle": "Veg"
+          "subcategory": "Veg",
+          "displayOrder": 23
         },
         {
           "id": "veg-jalfrezi",
@@ -1305,8 +1257,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 24,
-          "subtitle": "Veg"
+          "subcategory": "Veg",
+          "displayOrder": 24
         }
       ]
     },
@@ -1314,12 +1266,12 @@
       "id": "non-veg-main-course",
       "name": "Non-Veg Main Course",
       "description": "Chicken and mutton curries, handis and specials",
-      "displayOrder": 10,
+      "displayOrder": 4,
       "items": [
         {
           "id": "chicken-bhuna-masala",
           "name": "Chicken Bhuna Masala",
-          "description": "Portion",
+          "description": "",
           "price": 300,
           "image": "assets/menu/chicken-bhuna-masala.jpg",
           "isVeg": false,
@@ -1327,13 +1279,13 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 1,
-          "subtitle": "Special Chicken (Portion)"
+          "subcategory": "Special Chicken (Portion)",
+          "displayOrder": 1
         },
         {
           "id": "katta-chicken-special",
           "name": "Katta Chicken Special",
-          "description": "Portion",
+          "description": "",
           "price": 300,
           "image": "assets/menu/katta-chicken-special.jpg",
           "isVeg": false,
@@ -1341,13 +1293,13 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 2,
-          "subtitle": "Special Chicken (Portion)"
+          "subcategory": "Special Chicken (Portion)",
+          "displayOrder": 2
         },
         {
           "id": "chicken-murg-afgani",
           "name": "Chicken Murg Afgani",
-          "description": "Portion",
+          "description": "",
           "price": 330,
           "image": "assets/menu/chicken-murg-afgani.jpg",
           "isVeg": false,
@@ -1355,8 +1307,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 3,
-          "subtitle": "Special Chicken (Portion)"
+          "subcategory": "Special Chicken (Portion)",
+          "displayOrder": 3
         },
         {
           "id": "chicken-masala-plate",
@@ -1369,8 +1321,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 4,
-          "subtitle": "Chicken Dishes"
+          "subcategory": "Chicken Dishes",
+          "displayOrder": 4
         },
         {
           "id": "chicken-kolhapuri-plate",
@@ -1383,8 +1335,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 5,
-          "subtitle": "Chicken Dishes"
+          "subcategory": "Chicken Dishes",
+          "displayOrder": 5
         },
         {
           "id": "chicken-fry-plate-main",
@@ -1397,8 +1349,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 6,
-          "subtitle": "Chicken Dishes"
+          "subcategory": "Chicken Dishes",
+          "displayOrder": 6
         },
         {
           "id": "chicken-jawari-fry-masala",
@@ -1411,8 +1363,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 7,
-          "subtitle": "Chicken Dishes"
+          "subcategory": "Chicken Dishes",
+          "displayOrder": 7
         },
         {
           "id": "chicken-keema-plate",
@@ -1425,8 +1377,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 8,
-          "subtitle": "Chicken Dishes"
+          "subcategory": "Chicken Dishes",
+          "displayOrder": 8
         },
         {
           "id": "chicken-handi",
@@ -1439,6 +1391,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Chicken Handi",
           "displayOrder": 9,
           "variations": [
             {
@@ -1449,8 +1402,7 @@
               "name": "Full",
               "price": 530
             }
-          ],
-          "subtitle": "Chicken Handi"
+          ]
         },
         {
           "id": "chicken-fry-handi",
@@ -1463,6 +1415,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Chicken Handi",
           "displayOrder": 10,
           "variations": [
             {
@@ -1473,8 +1426,7 @@
               "name": "Full",
               "price": 580
             }
-          ],
-          "subtitle": "Chicken Handi"
+          ]
         },
         {
           "id": "chicken-kolhapuri-handi",
@@ -1487,6 +1439,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Chicken Handi",
           "displayOrder": 11,
           "variations": [
             {
@@ -1497,8 +1450,7 @@
               "name": "Full",
               "price": 550
             }
-          ],
-          "subtitle": "Chicken Handi"
+          ]
         },
         {
           "id": "chicken-malvani-handi-1",
@@ -1511,6 +1463,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Chicken Handi",
           "displayOrder": 12,
           "variations": [
             {
@@ -1521,8 +1474,7 @@
               "name": "Full",
               "price": 580
             }
-          ],
-          "subtitle": "Chicken Handi"
+          ]
         },
         {
           "id": "chicken-dhangari-handi",
@@ -1535,6 +1487,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Chicken Handi",
           "displayOrder": 13,
           "variations": [
             {
@@ -1545,8 +1498,7 @@
               "name": "Full",
               "price": 580
             }
-          ],
-          "subtitle": "Chicken Handi"
+          ]
         },
         {
           "id": "butter-chicken-handi",
@@ -1559,6 +1511,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
+          "subcategory": "Chicken Handi",
           "displayOrder": 14,
           "variations": [
             {
@@ -1569,8 +1522,7 @@
               "name": "Full",
               "price": 640
             }
-          ],
-          "subtitle": "Chicken Handi"
+          ]
         },
         {
           "id": "jawari-chicken-handi",
@@ -1583,6 +1535,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
+          "subcategory": "Chicken Handi",
           "displayOrder": 15,
           "variations": [
             {
@@ -1593,13 +1546,12 @@
               "name": "Full",
               "price": 620
             }
-          ],
-          "subtitle": "Chicken Handi"
+          ]
         },
         {
           "id": "mutton-bhuna-masala",
           "name": "Mutton Bhuna Masala",
-          "description": "Portion",
+          "description": "",
           "price": 380,
           "image": "assets/menu/mutton-bhuna-masala.jpg",
           "isVeg": false,
@@ -1607,13 +1559,13 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 16,
-          "subtitle": "Special Mutton (Portion)"
+          "subcategory": "Special Mutton (Portion)",
+          "displayOrder": 16
         },
         {
           "id": "katta-mutton-special",
           "name": "Katta Mutton Special",
-          "description": "Portion",
+          "description": "",
           "price": 390,
           "image": "assets/menu/katta-mutton-special.jpg",
           "isVeg": false,
@@ -1621,8 +1573,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 17,
-          "subtitle": "Special Mutton (Portion)"
+          "subcategory": "Special Mutton (Portion)",
+          "displayOrder": 17
         },
         {
           "id": "mutton-masala-plate",
@@ -1635,8 +1587,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 18,
-          "subtitle": "Mutton Dishes"
+          "subcategory": "Mutton Dishes",
+          "displayOrder": 18
         },
         {
           "id": "mutton-kolhapuri-plate",
@@ -1649,8 +1601,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 19,
-          "subtitle": "Mutton Dishes"
+          "subcategory": "Mutton Dishes",
+          "displayOrder": 19
         },
         {
           "id": "mutton-fry-plate-main",
@@ -1663,8 +1615,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 20,
-          "subtitle": "Mutton Dishes"
+          "subcategory": "Mutton Dishes",
+          "displayOrder": 20
         },
         {
           "id": "mutton-gavran-plate",
@@ -1677,8 +1629,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 21,
-          "subtitle": "Mutton Dishes"
+          "subcategory": "Mutton Dishes",
+          "displayOrder": 21
         },
         {
           "id": "mutton-chops-plate-main",
@@ -1691,8 +1643,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 22,
-          "subtitle": "Mutton Dishes"
+          "subcategory": "Mutton Dishes",
+          "displayOrder": 22
         },
         {
           "id": "mutton-keema-ball",
@@ -1705,8 +1657,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 23,
-          "subtitle": "Mutton Dishes"
+          "subcategory": "Mutton Dishes",
+          "displayOrder": 23
         },
         {
           "id": "mutton-handi",
@@ -1719,6 +1671,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Mutton Handi",
           "displayOrder": 24,
           "variations": [
             {
@@ -1729,8 +1682,7 @@
               "name": "Full",
               "price": 650
             }
-          ],
-          "subtitle": "Mutton Handi"
+          ]
         },
         {
           "id": "mutton-fry-handi",
@@ -1743,6 +1695,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Mutton Handi",
           "displayOrder": 25,
           "variations": [
             {
@@ -1753,8 +1706,7 @@
               "name": "Full",
               "price": 660
             }
-          ],
-          "subtitle": "Mutton Handi"
+          ]
         },
         {
           "id": "mutton-kolhapuri-handi",
@@ -1767,6 +1719,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Mutton Handi",
           "displayOrder": 26,
           "variations": [
             {
@@ -1777,8 +1730,7 @@
               "name": "Full",
               "price": 670
             }
-          ],
-          "subtitle": "Mutton Handi"
+          ]
         },
         {
           "id": "mutton-malvani-handi",
@@ -1791,6 +1743,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Mutton Handi",
           "displayOrder": 27,
           "variations": [
             {
@@ -1801,8 +1754,7 @@
               "name": "Full",
               "price": 680
             }
-          ],
-          "subtitle": "Mutton Handi"
+          ]
         },
         {
           "id": "mutton-dhangari-handi",
@@ -1815,6 +1767,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Mutton Handi",
           "displayOrder": 28,
           "variations": [
             {
@@ -1825,16 +1778,15 @@
               "name": "Full",
               "price": 680
             }
-          ],
-          "subtitle": "Mutton Handi"
+          ]
         }
       ]
     },
     {
       "id": "egg-dishes",
-      "name": "Egg Dishes",
+      "name": "Eggs",
       "description": "Egg curries, specials and handis",
-      "displayOrder": 11,
+      "displayOrder": 5,
       "items": [
         {
           "id": "egg-bhuna-masala",
@@ -1847,8 +1799,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 1,
-          "subtitle": "Special Egg"
+          "subcategory": "Special Egg",
+          "displayOrder": 1
         },
         {
           "id": "katta-egg-special",
@@ -1861,8 +1813,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 2,
-          "subtitle": "Special Egg"
+          "subcategory": "Special Egg",
+          "displayOrder": 2
         },
         {
           "id": "egg-masala-plate",
@@ -1875,8 +1827,8 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 3,
-          "subtitle": "Egg Dishes"
+          "subcategory": "Egg Dishes",
+          "displayOrder": 3
         },
         {
           "id": "egg-kolhapuri-plate",
@@ -1889,8 +1841,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 4,
-          "subtitle": "Egg Dishes"
+          "subcategory": "Egg Dishes",
+          "displayOrder": 4
         },
         {
           "id": "egg-khandavi-plate",
@@ -1903,8 +1855,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 5,
-          "subtitle": "Egg Dishes"
+          "subcategory": "Egg Dishes",
+          "displayOrder": 5
         },
         {
           "id": "egg-makhanwala-plate",
@@ -1917,8 +1869,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 6,
-          "subtitle": "Egg Dishes"
+          "subcategory": "Egg Dishes",
+          "displayOrder": 6
         },
         {
           "id": "egg-omelet-burji",
@@ -1931,8 +1883,8 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 7,
-          "subtitle": "Egg Dishes"
+          "subcategory": "Egg Dishes",
+          "displayOrder": 7
         },
         {
           "id": "egg-handi",
@@ -1945,6 +1897,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
+          "subcategory": "Egg Handi",
           "displayOrder": 8,
           "variations": [
             {
@@ -1955,8 +1908,7 @@
               "name": "Full",
               "price": 360
             }
-          ],
-          "subtitle": "Egg Handi"
+          ]
         },
         {
           "id": "egg-kolhapuri-handi",
@@ -1969,6 +1921,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
+          "subcategory": "Egg Handi",
           "displayOrder": 9,
           "variations": [
             {
@@ -1979,170 +1932,7 @@
               "name": "Full",
               "price": 400
             }
-          ],
-          "subtitle": "Egg Handi"
-        }
-      ]
-    },
-    {
-      "id": "breads",
-      "name": "Breads",
-      "description": "Fresh Indian breads",
-      "displayOrder": 12,
-      "items": [
-        {
-          "id": "bhakri",
-          "name": "Jawari Bhakri",
-          "description": "",
-          "price": 20,
-          "image": "assets/menu/bhakri.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 1,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "chapati",
-          "name": "Chapati",
-          "description": "",
-          "price": 15,
-          "image": "assets/menu/chapati.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 2,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "roti",
-          "name": "Tandoor Roti",
-          "description": "",
-          "price": 20,
-          "image": "assets/menu/roti.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 3,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "butter-roti",
-          "name": "Butter T. Roti",
-          "description": "",
-          "price": 25,
-          "image": "assets/menu/butter-roti.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 4,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "naan",
-          "name": "Naan",
-          "description": "",
-          "price": 35,
-          "image": "assets/menu/naan.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 5,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "butter-naan",
-          "name": "Butter Naan",
-          "description": "",
-          "price": 40,
-          "image": "assets/menu/butter-naan.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": true,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 6,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "kulcha",
-          "name": "Khulcha",
-          "description": "",
-          "price": 30,
-          "image": "assets/menu/kulcha.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 7,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "butter-kulcha",
-          "name": "Butter Khulcha",
-          "description": "",
-          "price": 35,
-          "image": "assets/menu/butter-kulcha.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 8,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "garlic-naan",
-          "name": "Garlic Naan",
-          "description": "",
-          "price": 50,
-          "image": "assets/menu/garlic-naan.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 9,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "butter-garlic-naan",
-          "name": "Butter Garlic Naan",
-          "description": "",
-          "price": 60,
-          "image": "assets/menu/butter-garlic-naan.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 10,
-          "subtitle": "Breads"
-        },
-        {
-          "id": "cheese-naan",
-          "name": "Cheese Naan",
-          "description": "",
-          "price": 70,
-          "image": "assets/menu/cheese-naan.jpg",
-          "isVeg": true,
-          "isAvailable": true,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 0,
-          "displayOrder": 11,
-          "subtitle": "Breads"
+          ]
         }
       ]
     },
@@ -2150,7 +1940,7 @@
       "id": "biryani",
       "name": "Biryani",
       "description": "Aromatic biryani favourites",
-      "displayOrder": 13,
+      "displayOrder": 6,
       "items": [
         {
           "id": "mutton-biryani",
@@ -2163,8 +1953,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 1,
-          "subtitle": "Biryani"
+          "displayOrder": 1
         },
         {
           "id": "chicken-biryani",
@@ -2177,8 +1966,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 2,
-          "subtitle": "Biryani"
+          "displayOrder": 2
         },
         {
           "id": "egg-biryani",
@@ -2191,8 +1979,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 3,
-          "subtitle": "Biryani"
+          "displayOrder": 3
         },
         {
           "id": "paneer-biryani",
@@ -2205,8 +1992,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 4,
-          "subtitle": "Biryani"
+          "displayOrder": 4
         },
         {
           "id": "veg-biryani",
@@ -2219,8 +2005,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 5,
-          "subtitle": "Biryani"
+          "displayOrder": 5
         }
       ]
     },
@@ -2228,7 +2013,7 @@
       "id": "rice",
       "name": "Rice",
       "description": "Rice preparations",
-      "displayOrder": 14,
+      "displayOrder": 7,
       "items": [
         {
           "id": "indrayani-rice",
@@ -2251,8 +2036,7 @@
               "name": "Full",
               "price": 120
             }
-          ],
-          "subtitle": "Rice"
+          ]
         },
         {
           "id": "jeera-rice",
@@ -2275,8 +2059,7 @@
               "name": "Full",
               "price": 120
             }
-          ],
-          "subtitle": "Rice"
+          ]
         },
         {
           "id": "ghee-rice",
@@ -2299,8 +2082,7 @@
               "name": "Full",
               "price": 130
             }
-          ],
-          "subtitle": "Rice"
+          ]
         },
         {
           "id": "curd-rice",
@@ -2313,8 +2095,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 4,
-          "subtitle": "Rice"
+          "displayOrder": 4
         },
         {
           "id": "dal-khichadi",
@@ -2327,16 +2108,166 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 5,
-          "subtitle": "Rice"
+          "displayOrder": 5
+        }
+      ]
+    },
+    {
+      "id": "breads",
+      "name": "Breads",
+      "description": "Fresh Indian breads",
+      "displayOrder": 8,
+      "items": [
+        {
+          "id": "bhakri",
+          "name": "Jawari Bhakri",
+          "description": "",
+          "price": 20,
+          "image": "assets/menu/bhakri.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 1
+        },
+        {
+          "id": "chapati",
+          "name": "Chapati",
+          "description": "",
+          "price": 15,
+          "image": "assets/menu/chapati.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 2
+        },
+        {
+          "id": "roti",
+          "name": "Tandoor Roti",
+          "description": "",
+          "price": 20,
+          "image": "assets/menu/roti.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 3
+        },
+        {
+          "id": "butter-roti",
+          "name": "Butter T. Roti",
+          "description": "",
+          "price": 25,
+          "image": "assets/menu/butter-roti.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 4
+        },
+        {
+          "id": "naan",
+          "name": "Naan",
+          "description": "",
+          "price": 35,
+          "image": "assets/menu/naan.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 5
+        },
+        {
+          "id": "butter-naan",
+          "name": "Butter Naan",
+          "description": "",
+          "price": 40,
+          "image": "assets/menu/butter-naan.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": true,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 6
+        },
+        {
+          "id": "kulcha",
+          "name": "Khulcha",
+          "description": "",
+          "price": 30,
+          "image": "assets/menu/kulcha.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 7
+        },
+        {
+          "id": "butter-kulcha",
+          "name": "Butter Khulcha",
+          "description": "",
+          "price": 35,
+          "image": "assets/menu/butter-kulcha.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 8
+        },
+        {
+          "id": "garlic-naan",
+          "name": "Garlic Naan",
+          "description": "",
+          "price": 50,
+          "image": "assets/menu/garlic-naan.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 9
+        },
+        {
+          "id": "butter-garlic-naan",
+          "name": "Butter Garlic Naan",
+          "description": "",
+          "price": 60,
+          "image": "assets/menu/butter-garlic-naan.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 10
+        },
+        {
+          "id": "cheese-naan",
+          "name": "Cheese Naan",
+          "description": "",
+          "price": 70,
+          "image": "assets/menu/cheese-naan.jpg",
+          "isVeg": true,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 0,
+          "displayOrder": 11
         }
       ]
     },
     {
       "id": "extra",
-      "name": "Extra",
+      "name": "Extras",
       "description": "Additional sides and accompaniments",
-      "displayOrder": 15,
+      "displayOrder": 9,
       "items": [
         {
           "id": "rassa-thali",
@@ -2349,8 +2280,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 1,
-          "subtitle": "Extras"
+          "displayOrder": 1
         },
         {
           "id": "solkadi",
@@ -2363,8 +2293,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 2,
-          "subtitle": "Extras"
+          "displayOrder": 2
         },
         {
           "id": "dahi-vati",
@@ -2377,8 +2306,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 3,
-          "subtitle": "Extras"
+          "displayOrder": 3
         },
         {
           "id": "sweet-vati",
@@ -2391,8 +2319,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 4,
-          "subtitle": "Extras"
+          "displayOrder": 4
         },
         {
           "id": "extra-gravy",
@@ -2405,8 +2332,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
-          "displayOrder": 5,
-          "subtitle": "Extras"
+          "displayOrder": 5
         },
         {
           "id": "plain-boiled-egg",
@@ -2419,8 +2345,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 0,
-          "displayOrder": 6,
-          "subtitle": "Extras"
+          "displayOrder": 6
         },
         {
           "id": "masala-boiled-egg",
@@ -2433,8 +2358,7 @@
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 7,
-          "subtitle": "Extras"
+          "displayOrder": 7
         },
         {
           "id": "cold-drinks",
@@ -2457,8 +2381,7 @@
               "name": "500ml",
               "price": 50
             }
-          ],
-          "subtitle": "Extras"
+          ]
         },
         {
           "id": "mineral-water",
@@ -2481,8 +2404,7 @@
               "name": "2L",
               "price": 30
             }
-          ],
-          "subtitle": "Extras"
+          ]
         },
         {
           "id": "tambada-rassa-parcel",
@@ -2495,8 +2417,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 3,
-          "displayOrder": 10,
-          "subtitle": "Extras"
+          "displayOrder": 10
         },
         {
           "id": "pandara-rassa-parcel",
@@ -2509,8 +2430,7 @@
           "isBestseller": true,
           "isNew": false,
           "spiceLevel": 1,
-          "displayOrder": 11,
-          "subtitle": "Extras"
+          "displayOrder": 11
         }
       ]
     }
