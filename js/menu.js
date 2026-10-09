@@ -115,11 +115,12 @@
       variations: variations,
       categoryId: category.id,
       categoryName: category.name,
+      subcategory: String(raw.subcategory || "").trim(),
       _order: toNumber(raw.displayOrder) === null ? Infinity : toNumber(raw.displayOrder),
       _index: index
     };
 
-    item._search = searchText([item.name, item.description, category.name, item.offerLabel]
+    item._search = searchText([item.name, item.description, category.name, item.subcategory, item.offerLabel]
       .concat(variations.map(function (v) { return v.name; }))
       .join(" "));
 
