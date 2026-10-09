@@ -437,6 +437,48 @@ svg { width: 1em; height: 1em; flex-shrink: 0; }
   margin-top: 14px;
 }
 
+/* ---------- Sub titles inside a category (e.g. "Veg Starters") ---------- */
+
+.subcat { margin-top: 22px; }
+.subcat:first-of-type { margin-top: 14px; }
+.subcat__title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: var(--font-display);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--primary-ink);
+  letter-spacing: 0.01em;
+}
+.subcat__title::before {
+  content: "";
+  width: 4px;
+  height: 1.05em;
+  border-radius: 2px;
+  background: var(--accent);
+  flex: none;
+}
+.subcat__title::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: linear-gradient(to right, var(--line), transparent);
+}
+.subcat__count {
+  order: 3;
+  font-family: var(--font-body);
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--ink-3);
+  background: var(--primary-soft);
+  border-radius: 999px;
+  padding: 2px 8px;
+  min-width: 1.6em;
+  text-align: center;
+}
+.subcat > .grid { margin-top: 10px; }
+
 /* ---------- Food card ---------- */
 
 .card {
