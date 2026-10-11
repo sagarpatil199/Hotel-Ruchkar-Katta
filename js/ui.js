@@ -56,11 +56,14 @@
 
   function links(r) {
     var wa = digitsOnly(r.whatsapp);
+    if (wa.length === 10) wa = "91" + wa; /* Indian number without country code */
     return {
       call: r.phone ? "tel:" + String(r.phone).replace(/[^0-9+]/g, "") : "",
       whatsapp: wa
         ? "https://wa.me/" + wa + (r.whatsappMessage ? "?text=" + encodeURIComponent(r.whatsappMessage) : "")
         : "",
+      instagram: r.instagram || "",
+      review: r.googleReviewUrl || "",
       maps: r.googleMapsUrl || (r.address ? "https://www.google.com/maps/search/?api=1&query=" + encodeURIComponent(r.address) : "")
     };
   }
@@ -85,9 +88,9 @@
     var actions = $("contact-actions");
     actions.textContent = "";
     [
-      { href: l.call, icon: "phone", label: "Call", aria: "Call " + r.name },
+      { href: l.instagram, icon: "instagram", label: "Instagram", aria: "Follow " + r.name + " on Instagram", external: true },
       { href: l.whatsapp, icon: "whatsapp", label: "WhatsApp", aria: "Message " + r.name + " on WhatsApp", external: true },
-      { href: l.maps, icon: "pin", label: "Location", aria: "Open " + r.name + " in Google Maps", external: true }
+      { href: l.review, icon: "star", label: "Google Review", aria: "Write a Google review for " + r.name, external: true }
     ].forEach(function (a) {
       if (!a.href) return;
       actions.appendChild(el("a", {
