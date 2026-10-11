@@ -46,6 +46,13 @@
     return svg;
   }
 
+  /* 4 of 5 gold stars (Google-review style) */
+  function ratingStars() {
+    var wrap = el("span", { class: "stars", "aria-hidden": "true" });
+    for (var i = 0; i < 5; i++) wrap.appendChild(icon(i < 4 ? "star" : "star-outline", i < 4 ? "stars__on" : "stars__off"));
+    return wrap;
+  }
+
   function digitsOnly(text) { return String(text || "").replace(/[^0-9]/g, ""); }
 
   function prefersReducedMotion() {
@@ -99,7 +106,7 @@
         "aria-label": a.aria,
         target: a.external ? "_blank" : null,
         rel: a.external ? "noopener" : null
-      }, [icon(a.icon), el("span", { text: a.label })]));
+      }, [a.icon === "star" ? ratingStars() : icon(a.icon), el("span", { text: a.label })]));
     });
 
     var notice = $("restaurant-notice");
