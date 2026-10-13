@@ -1296,20 +1296,7 @@
           "subcategory": "Special Chicken (Portion)",
           "displayOrder": 2
         },
-        {
-          "id": "chicken-murg-afgani",
-          "name": "Chicken Murg Afgani",
-          "description": "",
-          "price": 330,
-          "image": "assets/menu/chicken-murg-afgani.jpg",
-          "isVeg": false,
-          "isAvailable": false,
-          "isBestseller": false,
-          "isNew": false,
-          "spiceLevel": 2,
-          "subcategory": "Special Chicken (Portion)",
-          "displayOrder": 3
-        },
+        
         {
           "id": "chicken-murg-afgani",
           "name": "Chicken Murg Musallam",
