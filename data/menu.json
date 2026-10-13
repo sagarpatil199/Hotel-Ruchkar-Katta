@@ -24,7 +24,7 @@
           "id": "french-fries",
           "name": "French Fries",
           "description": "",
-          "price": 100,
+          "price": 120,
           "image": "assets/menu/french-fries.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -38,7 +38,7 @@
           "id": "peri-peri-french-fries",
           "name": "Peri Peri French Fries",
           "description": "",
-          "price": 120,
+          "price": 130,
           "image": "assets/menu/peri-peri-french-fries.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -52,7 +52,7 @@
           "id": "gobi-manchurian",
           "name": "Gobi Manchurian / Dry",
           "description": "",
-          "price": 130,
+          "price": 150,
           "image": "assets/menu/gobi-manchurian.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -136,7 +136,7 @@
           "id": "paneer-chilly",
           "name": "Paneer Chilly",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/paneer-chilly.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -150,7 +150,7 @@
           "id": "paneer-manchurian",
           "name": "Paneer Manchurian",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/paneer-manchurian.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -164,7 +164,7 @@
           "id": "paneer-tikka",
           "name": "Paneer Tikka",
           "description": "",
-          "price": 250,
+          "price": 260,
           "image": "assets/menu/paneer-tikka.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -178,7 +178,7 @@
           "id": "paneer-hariyali-tikka",
           "name": "Paneer Hariyali Tikka",
           "description": "",
-          "price": 250,
+          "price": 260,
           "image": "assets/menu/paneer-hariyali-tikka.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -192,7 +192,7 @@
           "id": "mushroom-65",
           "name": "Mushroom 65",
           "description": "",
-          "price": 200,
+          "price": 210,
           "image": "assets/menu/mushroom-65.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -206,7 +206,7 @@
           "id": "mushroom-chilly",
           "name": "Mushroom Chilly",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mushroom-chilly.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -220,7 +220,7 @@
           "id": "mushroom-manchurian",
           "name": "Mushroom Manchurian",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mushroom-manchurian.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -316,11 +316,11 @@
           "variations": [
             {
               "name": "Dry",
-              "price": 180
+              "price": 200
             },
             {
               "name": "Masala",
-              "price": 200
+              "price": 220
             }
           ]
         },
@@ -356,7 +356,7 @@
           "id": "chicken-chilly",
           "name": "Chicken Chilly",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/chicken-chilly.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -370,7 +370,7 @@
           "id": "chicken-crispy",
           "name": "Chicken Crispy",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/chicken-crispy.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -384,7 +384,7 @@
           "id": "chicken-pakoda",
           "name": "Chicken Pakoda",
           "description": "",
-          "price": 180,
+          "price": 200,
           "image": "assets/menu/chicken-pakoda.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -398,7 +398,7 @@
           "id": "jawari-chicken-sukka",
           "name": "Jawari Chicken Sukka",
           "description": "",
-          "price": 170,
+          "price": 180,
           "image": "assets/menu/jawari-chicken-sukka.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -482,7 +482,7 @@
           "id": "chicken-tikka-kebab",
           "name": "Chicken Tikka Kebab",
           "description": "",
-          "price": 250,
+          "price": 260,
           "image": "assets/menu/chicken-tikka-kebab.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -496,7 +496,7 @@
           "id": "chicken-banjara-kebab",
           "name": "Chicken Banjara Kebab",
           "description": "",
-          "price": 260,
+          "price": 270,
           "image": "assets/menu/chicken-banjara-kebab.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -522,11 +522,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 280
+              "price": 300
             },
             {
               "name": "Full",
-              "price": 500
+              "price": 550
             }
           ]
         },
@@ -534,7 +534,7 @@
           "id": "mutton-ghee-roast",
           "name": "Mutton Ghee Roast",
           "description": "",
-          "price": 250,
+          "price": 260,
           "image": "assets/menu/mutton-ghee-roast.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -548,7 +548,7 @@
           "id": "mutton-fry-starter",
           "name": "Mutton Fry / Sukka",
           "description": "",
-          "price": 210,
+          "price": 220,
           "image": "assets/menu/mutton-fry-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -562,7 +562,7 @@
           "id": "mutton-dry-black-pepper",
           "name": "Mutton Black Pepper",
           "description": "",
-          "price": 210,
+          "price": 220,
           "image": "assets/menu/mutton-dry-black-pepper.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -576,7 +576,7 @@
           "id": "mutton-chops-starter",
           "name": "Mutton Chops Fry",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mutton-chops-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -590,7 +590,7 @@
           "id": "mutton-kheema-ball-plate",
           "name": "Mutton Keema Ball Fry",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mutton-kheema-ball-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -612,7 +612,7 @@
           "id": "mutton-masala-thali",
           "name": "Mutton Masala Thali",
           "description": "",
-          "price": 290,
+          "price": 310,
           "image": "assets/menu/mutton-masala-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -626,7 +626,7 @@
           "id": "mutton-fry-thali",
           "name": "Mutton Fry Thali",
           "description": "",
-          "price": 290,
+          "price": 310,
           "image": "assets/menu/mutton-fry-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -640,7 +640,7 @@
           "id": "mutton-kolhapuri-thali",
           "name": "Mutton Kolhapuri Thali",
           "description": "",
-          "price": 300,
+          "price": 320,
           "image": "assets/menu/mutton-kolhapuri-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -654,7 +654,7 @@
           "id": "mutton-kheema-ball-thali",
           "name": "Mutton Kheema Ball Thali",
           "description": "",
-          "price": 300,
+          "price": 320,
           "image": "assets/menu/mutton-kheema-ball-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -668,7 +668,7 @@
           "id": "mutton-chops-thali",
           "name": "Mutton Chops Thali",
           "description": "",
-          "price": 300,
+          "price": 320,
           "image": "assets/menu/mutton-chops-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -682,7 +682,7 @@
           "id": "chicken-fry-thali",
           "name": "Chicken Fry Thali",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/chicken-fry-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -696,7 +696,7 @@
           "id": "chicken-masala-thali",
           "name": "Chicken Masala Thali",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/chicken-masala-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -710,7 +710,7 @@
           "id": "chicken-kheema-thali",
           "name": "Chicken Kheema Thali",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/chicken-kheema-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -724,7 +724,7 @@
           "id": "chicken-kolhapuri-thali",
           "name": "Chicken Kolhapuri Thali",
           "description": "",
-          "price": 220,
+          "price": 240,
           "image": "assets/menu/chicken-kolhapuri-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -850,7 +850,7 @@
           "id": "special-ruchkar-mutton-thali",
           "name": "Ruchkar Special Mutton Thali",
           "description": "",
-          "price": 350,
+          "price": 370,
           "image": "assets/menu/Special Ruchkar Katta mutton thalis.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -864,7 +864,7 @@
           "id": "special-gavran-mutton-thali",
           "name": "Mutton Gavaran Special Thali",
           "description": "",
-          "price": 350,
+          "price": 370,
           "image": "assets/menu/special-gavran-mutton-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -878,7 +878,7 @@
           "id": "special-ruchkar-chicken-thali",
           "name": "Ruchkar Special Chicken Thali",
           "description": "",
-          "price": 240,
+          "price": 260,
           "image": "assets/menu/special-ruchkar-chicken-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -892,7 +892,7 @@
           "id": "jawari-chicken-thali",
           "name": "Jawari Chicken Thali",
           "description": "",
-          "price": 250,
+          "price": 260,
           "image": "assets/menu/jawari-chicken-thali.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -928,7 +928,7 @@
           "id": "ruchkar-special-veg",
           "name": "Ruchkar Special Veg",
           "description": "",
-          "price": 260,
+          "price": 270,
           "image": "assets/menu/ruchkar-special-veg.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -942,7 +942,7 @@
           "id": "paneer-tikka-masala",
           "name": "Paneer Tikka Masala",
           "description": "",
-          "price": 230,
+          "price": 250,
           "image": "assets/menu/paneer-tikka-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -956,7 +956,7 @@
           "id": "paneer-chingari",
           "name": "Paneer Chingari",
           "description": "",
-          "price": 230,
+          "price": 250,
           "image": "assets/menu/paneer-chingari.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -970,7 +970,7 @@
           "id": "paneer-masala",
           "name": "Paneer Masala",
           "description": "",
-          "price": 210,
+          "price": 230,
           "image": "assets/menu/paneer-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -984,7 +984,7 @@
           "id": "paneer-kadai",
           "name": "Paneer Kadai",
           "description": "",
-          "price": 220,
+          "price": 240,
           "image": "assets/menu/paneer-kadai.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -998,7 +998,7 @@
           "id": "paneer-butter-masala",
           "name": "Paneer Butter Masala",
           "description": "",
-          "price": 210,
+          "price": 230,
           "image": "assets/menu/paneer-butter-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1012,7 +1012,7 @@
           "id": "paneer-handi",
           "name": "Paneer Handi",
           "description": "",
-          "price": 250,
+          "price": 260,
           "image": "assets/menu/paneer-handi.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1026,7 +1026,7 @@
           "id": "paneer-green-peas-masala",
           "name": "Paneer Green Peas Masala",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/paneer-green-peas-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1040,7 +1040,7 @@
           "id": "paneer-burji",
           "name": "Paneer Burji",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/paneer-burji.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1054,7 +1054,7 @@
           "id": "dal-fry",
           "name": "Dal Fry",
           "description": "",
-          "price": 100,
+          "price": 120,
           "image": "assets/menu/dal-fry.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1068,7 +1068,7 @@
           "id": "dal-tadka",
           "name": "Dal Tadka",
           "description": "",
-          "price": 120,
+          "price": 140,
           "image": "assets/menu/dal-tadka.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1082,7 +1082,7 @@
           "id": "butter-dal-fry",
           "name": "Butter Dal Fry",
           "description": "",
-          "price": 120,
+          "price": 140,
           "image": "assets/menu/butter-dal-fry.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1096,7 +1096,7 @@
           "id": "kaju-masala",
           "name": "Kaju Masala",
           "description": "",
-          "price": 210,
+          "price": 230,
           "image": "assets/menu/kaju-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1110,7 +1110,7 @@
           "id": "kaju-kolhapuri",
           "name": "Kaju Kolhapuri",
           "description": "",
-          "price": 220,
+          "price": 240,
           "image": "assets/menu/kaju-kolhapuri.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1124,7 +1124,7 @@
           "id": "kaju-kari",
           "name": "Kaju Kari",
           "description": "",
-          "price": 210,
+          "price": 230,
           "image": "assets/menu/kaju-kari.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1138,7 +1138,7 @@
           "id": "kaju-paneer-masala",
           "name": "Kaju Paneer Masala",
           "description": "",
-          "price": 230,
+          "price": 250,
           "image": "assets/menu/kaju-paneer-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1166,7 +1166,7 @@
           "id": "mix-veg-kolhapuri",
           "name": "Mix Veg / Kolhapuri",
           "description": "",
-          "price": 180,
+          "price": 200,
           "image": "assets/menu/mix-veg-kolhapuri.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1180,7 +1180,7 @@
           "id": "veg-kadai",
           "name": "Veg Kadai",
           "description": "",
-          "price": 220,
+          "price": 240,
           "image": "assets/menu/veg-kadai.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1194,7 +1194,7 @@
           "id": "veg-handi",
           "name": "Veg Handi",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/veg-handi.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1208,7 +1208,7 @@
           "id": "veg-jaipuri",
           "name": "Veg Jaipuri",
           "description": "",
-          "price": 230,
+          "price": 250,
           "image": "assets/menu/veg-jaipuri.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1222,7 +1222,7 @@
           "id": "mushroom-masala",
           "name": "Mushroom Masala",
           "description": "",
-          "price": 230,
+          "price": 250,
           "image": "assets/menu/mushroom-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1236,7 +1236,7 @@
           "id": "veg-bhuna-masala",
           "name": "Veg Bhuna Masala",
           "description": "",
-          "price": 230,
+          "price": 250,
           "image": "assets/menu/veg-bhuna-masala.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1250,7 +1250,7 @@
           "id": "veg-jalfrezi",
           "name": "Veg Jalfrezi",
           "description": "",
-          "price": 200,
+          "price": 220,
           "image": "assets/menu/veg-jalfrezi.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -1275,7 +1275,7 @@
           "price": 300,
           "image": "assets/menu/chicken-bhuna-masala.jpg",
           "isVeg": false,
-          "isAvailable": true,
+          "isAvailable": false,
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
@@ -1286,7 +1286,7 @@
           "id": "katta-chicken-special",
           "name": "Katta Chicken Special",
           "description": "",
-          "price": 300,
+          "price": 320,
           "image": "assets/menu/katta-chicken-special.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1303,7 +1303,7 @@
           "price": 330,
           "image": "assets/menu/chicken-murg-afgani.jpg",
           "isVeg": false,
-          "isAvailable": true,
+          "isAvailable": false,
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
@@ -1311,10 +1311,34 @@
           "displayOrder": 3
         },
         {
+          "id": "chicken-murg-afgani",
+          "name": "Chicken Murg Musallam",
+          "description": "",
+          "price": 330,
+          "image": "assets/menu/chicken-murg-afgani.jpg",
+          "isVeg": false,
+          "isAvailable": true,
+          "isBestseller": false,
+          "isNew": false,
+          "spiceLevel": 2,
+          "subcategory": "Special Chicken (Portion)",
+          "displayOrder": 3,
+          "variations": [
+            {
+              "name": "Half",
+              "price": 360
+            },
+            {
+              "name": "Full",
+              "price": 600
+            }
+          ]
+        },
+        {
           "id": "chicken-masala-plate",
           "name": "Chicken Masala",
           "description": "",
-          "price": 150,
+          "price": 160,
           "image": "assets/menu/chicken-masala-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1328,7 +1352,7 @@
           "id": "chicken-kolhapuri-plate",
           "name": "Chicken Kolhapuri",
           "description": "",
-          "price": 160,
+          "price": 170,
           "image": "assets/menu/chicken-kolhapuri-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1342,7 +1366,7 @@
           "id": "chicken-fry-plate-main",
           "name": "Chicken Fry",
           "description": "",
-          "price": 150,
+          "price": 160,
           "image": "assets/menu/chicken-fry-plate-main.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1356,7 +1380,7 @@
           "id": "chicken-jawari-fry-masala",
           "name": "Chicken Jawari Fry / Masala",
           "description": "",
-          "price": 170,
+          "price": 180,
           "image": "assets/menu/chicken-jawari-fry-masala.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1370,7 +1394,7 @@
           "id": "chicken-keema-plate",
           "name": "Chicken Kheema",
           "description": "",
-          "price": 150,
+          "price": 160,
           "image": "assets/menu/chicken-keema-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1384,7 +1408,7 @@
           "id": "chicken-handi",
           "name": "Chicken Handi",
           "description": "",
-          "price": 280,
+          "price": 300,
           "image": "assets/menu/chicken-handi.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1396,11 +1420,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 280
+              "price": 300
             },
             {
               "name": "Full",
-              "price": 530
+              "price": 550
             }
           ]
         },
@@ -1408,7 +1432,7 @@
           "id": "chicken-fry-handi",
           "name": "Chicken Fry Handi",
           "description": "",
-          "price": 320,
+          "price": 340,
           "image": "assets/menu/chicken-fry-handi.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1420,11 +1444,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 320
+              "price": 340
             },
             {
               "name": "Full",
-              "price": 580
+              "price": 600
             }
           ]
         },
@@ -1448,7 +1472,7 @@
             },
             {
               "name": "Full",
-              "price": 550
+              "price": 570
             }
           ]
         },
@@ -1456,7 +1480,7 @@
           "id": "chicken-malvani-handi-1",
           "name": "Chicken Malavani Handi",
           "description": "",
-          "price": 320,
+          "price": 340,
           "image": "assets/menu/chicken-malvani-handi.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1468,11 +1492,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 320
+              "price": 340
             },
             {
               "name": "Full",
-              "price": 580
+              "price": 600
             }
           ]
         },
@@ -1480,7 +1504,7 @@
           "id": "chicken-dhangari-handi",
           "name": "Chicken Dhangari Handi",
           "description": "",
-          "price": 330,
+          "price": 350,
           "image": "assets/menu/chicken-dhangari-handi.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1492,11 +1516,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 330
+              "price": 350
             },
             {
               "name": "Full",
-              "price": 580
+              "price": 600
             }
           ]
         },
@@ -1504,7 +1528,7 @@
           "id": "butter-chicken-handi",
           "name": "Butter Chicken Handi",
           "description": "",
-          "price": 360,
+          "price": 380,
           "image": "assets/menu/butter-chicken-handi.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1516,11 +1540,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 360
+              "price": 380
             },
             {
               "name": "Full",
-              "price": 640
+              "price": 660
             }
           ]
         },
@@ -1528,7 +1552,7 @@
           "id": "jawari-chicken-handi",
           "name": "Jawari Chicken Handi",
           "description": "",
-          "price": 350,
+          "price": 370,
           "image": "assets/menu/jawari-chicken-handi.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1540,11 +1564,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 350
+              "price": 370
             },
             {
               "name": "Full",
-              "price": 620
+              "price": 640
             }
           ]
         },
@@ -1555,7 +1579,7 @@
           "price": 380,
           "image": "assets/menu/mutton-bhuna-masala.jpg",
           "isVeg": false,
-          "isAvailable": true,
+          "isAvailable": false,
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 3,
@@ -1580,7 +1604,7 @@
           "id": "mutton-masala-plate",
           "name": "Mutton Masala",
           "description": "",
-          "price": 210,
+          "price": 220,
           "image": "assets/menu/mutton-masala-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1594,7 +1618,7 @@
           "id": "mutton-kolhapuri-plate",
           "name": "Mutton Kolhapuri",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mutton-kolhapuri-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1608,7 +1632,7 @@
           "id": "mutton-fry-plate-main",
           "name": "Mutton Fry / Sukka",
           "description": "",
-          "price": 210,
+          "price": 220,
           "image": "assets/menu/mutton-fry-plate-main.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1622,7 +1646,7 @@
           "id": "mutton-gavran-plate",
           "name": "Mutton Gavran",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mutton-gavran-plate.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1636,7 +1660,7 @@
           "id": "mutton-chops-plate-main",
           "name": "Mutton Chops Masala",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mutton-chops-plate-main.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1650,7 +1674,7 @@
           "id": "mutton-keema-ball",
           "name": "Mutton Kheema Ball Masala",
           "description": "",
-          "price": 220,
+          "price": 230,
           "image": "assets/menu/mutton-keema-ball.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1664,7 +1688,7 @@
           "id": "mutton-handi",
           "name": "Mutton Handi",
           "description": "",
-          "price": 350,
+          "price": 310,
           "image": "assets/menu/mutton-handi.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1676,11 +1700,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 350
+              "price": 310
             },
             {
               "name": "Full",
-              "price": 650
+              "price": 570
             }
           ]
         },
@@ -1704,7 +1728,7 @@
             },
             {
               "name": "Full",
-              "price": 660
+              "price": 680
             }
           ]
         },
@@ -1728,7 +1752,7 @@
             },
             {
               "name": "Full",
-              "price": 670
+              "price": 690
             }
           ]
         },
@@ -1752,7 +1776,7 @@
             },
             {
               "name": "Full",
-              "price": 680
+              "price": 700
             }
           ]
         },
@@ -1776,7 +1800,7 @@
             },
             {
               "name": "Full",
-              "price": 680
+              "price": 700
             }
           ]
         }
@@ -1795,7 +1819,7 @@
           "price": 250,
           "image": "assets/menu/egg-bhuna-masala.jpg",
           "isVeg": false,
-          "isAvailable": true,
+          "isAvailable": false,
           "isBestseller": false,
           "isNew": false,
           "spiceLevel": 2,
@@ -1946,7 +1970,7 @@
           "id": "mutton-biryani",
           "name": "Mutton Biryani",
           "description": "",
-          "price": 260,
+          "price": 270,
           "image": "assets/menu/mutton-biryani.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -1959,7 +1983,7 @@
           "id": "chicken-biryani",
           "name": "Chicken Biryani",
           "description": "",
-          "price": 180,
+          "price": 190,
           "image": "assets/menu/chicken-biryani.jpg",
           "isVeg": false,
           "isAvailable": true,
@@ -2019,7 +2043,7 @@
           "id": "indrayani-rice",
           "name": "Indrayani Rice",
           "description": "",
-          "price": 70,
+          "price": 80,
           "image": "assets/menu/indrayani-rice.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -2030,11 +2054,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 70
+              "price": 80
             },
             {
               "name": "Full",
-              "price": 120
+              "price": 130
             }
           ]
         },
@@ -2053,11 +2077,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 70
+              "price": 80
             },
             {
               "name": "Full",
-              "price": 120
+              "price": 130
             }
           ]
         },
@@ -2065,7 +2089,7 @@
           "id": "ghee-rice",
           "name": "Ghee Rice",
           "description": "",
-          "price": 80,
+          "price": 90,
           "image": "assets/menu/ghee-rice.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -2076,11 +2100,11 @@
           "variations": [
             {
               "name": "Half",
-              "price": 80
+              "price": 90
             },
             {
               "name": "Full",
-              "price": 130
+              "price": 140
             }
           ]
         },
@@ -2088,7 +2112,7 @@
           "id": "curd-rice",
           "name": "Curd Rice",
           "description": "",
-          "price": 140,
+          "price": 150,
           "image": "assets/menu/curd-rice.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -2101,7 +2125,7 @@
           "id": "dal-khichadi",
           "name": "Dal Khichadi",
           "description": "",
-          "price": 150,
+          "price": 160,
           "image": "assets/menu/dal-khichadi.jpg",
           "isVeg": true,
           "isAvailable": true,
@@ -2325,7 +2349,7 @@
           "id": "extra-gravy",
           "name": "Extra Gravy",
           "description": "",
-          "price": 50,
+          "price": 60,
           "image": "assets/menu/extra-gravy.jpg",
           "isVeg": false,
           "isAvailable": true,
